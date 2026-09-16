@@ -1,0 +1,126 @@
+{
+  "true": {
+    "H_A": 742.5992447927795,
+    "H_B": 732.3648967906264,
+    "dH": 10.23434800215307
+  },
+  "asymmetry": [
+    {
+      "param": "P1_dx",
+      "unit": "mm",
+      "err_A_plus_um": 416.0054772055446,
+      "err_A_minus_um": -528.4156378967282,
+      "err_B_plus_um": -3501.1363893388534,
+      "err_B_minus_um": 3297.0848069065823,
+      "err_dH_plus_um": 3917.141866544398,
+      "err_dH_minus_um": -3825.5004448033105,
+      "first_order_A_um_per_unit": 472.2105575511364,
+      "second_order_A_um_per_unit2": -112.4101606910699,
+      "asym_ratio_A": -0.2380509264215182
+    },
+    {
+      "param": "P1_dz",
+      "unit": "mm",
+      "err_A_plus_um": 416.0054772055446,
+      "err_A_minus_um": -528.4156378967282,
+      "err_B_plus_um": -3501.1363893388534,
+      "err_B_minus_um": 3297.0848069065823,
+      "err_dH_plus_um": 3917.141866544398,
+      "err_dH_minus_um": -3825.5004448033105,
+      "first_order_A_um_per_unit": 472.2105575511364,
+      "second_order_A_um_per_unit2": -112.4101606910699,
+      "asym_ratio_A": -0.2380509264215182
+    },
+    {
+      "param": "P1_ry",
+      "unit": "°",
+      "err_A_plus_um": -404.93875807635504,
+      "err_A_minus_um": 328.0012664329206,
+      "err_B_plus_um": 2600.1995348799483,
+      "err_B_minus_um": -2651.966236449084,
+      "err_dH_plus_um": -3005.1382929563033,
+      "err_dH_minus_um": 2979.9675028820047,
+      "first_order_A_um_per_unit": -366.4700122546378,
+      "second_order_A_um_per_unit2": -76.93749164354813,
+      "asym_ratio_A": -0.20994212096701848
+    },
+    {
+      "param": "P2_dx",
+      "unit": "mm",
+      "err_A_plus_um": 492.7058813337908,
+      "err_A_minus_um": -630.0396036003804,
+      "err_B_plus_um": 4318.194230359268,
+      "err_B_minus_um": -4547.168012433076,
+      "err_dH_plus_um": -3825.488349025477,
+      "err_dH_minus_um": 3917.1284088326956,
+      "first_order_A_um_per_unit": 561.3727424670856,
+      "second_order_A_um_per_unit2": -137.33372226670326,
+      "asym_ratio_A": -0.24463909961705196
+    },
+    {
+      "param": "P2_dz",
+      "unit": "mm",
+      "err_A_plus_um": 492.7058813337908,
+      "err_A_minus_um": -630.0396036003804,
+      "err_B_plus_um": 4318.194230359268,
+      "err_B_minus_um": -4547.168012433076,
+      "err_dH_plus_um": -3825.488349025477,
+      "err_dH_minus_um": 3917.1284088326956,
+      "first_order_A_um_per_unit": 561.3727424670856,
+      "second_order_A_um_per_unit2": -137.33372226670326,
+      "asym_ratio_A": -0.24463909961705196
+    },
+    {
+      "param": "P2_ry",
+      "unit": "°",
+      "err_A_plus_um": -472.119262603087,
+      "err_A_minus_um": 397.30444965573497,
+      "err_B_plus_um": -3477.9754280598354,
+      "err_B_minus_um": 3402.9554111843936,
+      "err_dH_plus_um": 3005.8561654567484,
+      "err_dH_minus_um": -3005.6509615286586,
+      "first_order_A_um_per_unit": -434.711856129411,
+      "second_order_A_um_per_unit2": -74.81481294735204,
+      "asym_ratio_A": -0.172102076105051
+    },
+    {
+      "param": "T_dx",
+      "unit": "mm",
+      "err_A_plus_um": -34.11671816093076,
+      "err_A_minus_um": 34.11673283687833,
+      "err_B_plus_um": -34.1122223385355,
+      "err_B_minus_um": 34.11223763839644,
+      "err_dH_plus_um": -0.004495822395256255,
+      "err_dH_minus_um": 0.004495198481890839,
+      "first_order_A_um_per_unit": -34.11672549890454,
+      "second_order_A_um_per_unit2": 1.4676061255158857e-05,
+      "asym_ratio_A": 4.301720355791373e-07
+    },
+    {
+      "param": "T_dz",
+      "unit": "mm",
+      "err_A_plus_um": -999.4024646157413,
+      "err_A_minus_um": 999.4025043694137,
+      "err_B_plus_um": -999.3941917080065,
+      "err_B_minus_um": 999.3942545646632,
+      "err_dH_plus_um": -0.00827290773486311,
+      "err_dH_minus_um": 0.008249804750448675,
+      "first_order_A_um_per_unit": -999.4024844925775,
+      "second_order_A_um_per_unit2": 3.975355866714381e-05,
+      "asym_ratio_A": 3.977732623641383e-08
+    },
+    {
+      "param": "rod_len",
+      "unit": "mm",
+      "err_A_plus_um": 999.4025043694137,
+      "err_A_minus_um": -999.4024646157413,
+      "err_B_plus_um": 999.3942545646632,
+      "err_B_minus_um": -999.3941917080065,
+      "err_dH_plus_um": 0.008249804750448675,
+      "err_dH_minus_um": -0.00827290773486311,
+      "first_order_A_um_per_unit": 999.4024844925775,
+      "second_order_A_um_per_unit2": 3.975355866714381e-05,
+      "asym_ratio_A": 3.977732623641383e-08
+    }
+  ]
+}
