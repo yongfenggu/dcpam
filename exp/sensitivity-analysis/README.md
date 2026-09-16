@@ -1,5 +1,22 @@
 # DCPAM 灵敏度分析
 
+## 目录结构
+
+```
+exp/sensitivity-analysis/
+├── README.md                  ← 本文档
+├── sensitivity_theory.py       ← 核心计算（13自由度灵敏度）
+├── sensitivity_figures.py      ← 生成论文图
+├── figures/                    ← 3 张论文图（PDF + PNG）
+└── exploration/                ← 探索中间过程
+    ├── README.md               ← 演进路线说明
+    ├── mc_sensitivity.py       ← 最初版（含光斑像素灵敏度，最终版未纳入）
+    ├── mc_differential.py      ← 差值测量引入
+    ├── mc_asymmetry.py         ← 正负不对称分析
+    ├── mc_full_dofs.py         ← 13自由度补全
+    └── *.json                  ← 各阶段输出数据
+```
+
 ## 1. 分析框架
 
 ### 1.1 测量原理
